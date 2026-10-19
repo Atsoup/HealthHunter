@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+publish/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pdb
+*.log
+.env
+.env.*
+!.env.example
